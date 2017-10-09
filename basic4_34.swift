@@ -1,0 +1,7 @@
+class BasicClass{
+    
+}
+
+struct BaseStructure{
+    
+}
